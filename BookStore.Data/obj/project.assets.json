@@ -3100,7 +3100,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Tools/1.1.1": {
-      "sha512": "81cRtI+0rkISdG/oTizLWKI4fQi9fhcYI0hbHOm/xrIzCay1gOkvzacwuFRKcWlN8GGyjNSf9lRSz1OIZsIrAQ==",
+      "sha512": "xKoT8Tct5c/y29By/Q7oXijI8sGZYwqpfGsf4v6W4uND58LEypTC19kvKCoIBMVFC7YGKIYUsspESByz7gxRng==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.tools/1.1.1",
       "files": [
@@ -8149,7 +8149,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Rafib\\.nuget\\packages\\": {}
+    "C:\\Users\\d13co\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
